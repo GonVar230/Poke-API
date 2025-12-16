@@ -6,17 +6,19 @@ By default, it retrieves the first 151 Pokémon. Thanks to PokeAPI’s sequentia
 
 <strong>Features</strong>
 
-Built with HTML, CSS, and Vanilla JavaScript
-
-Fetches data from the official PokeAPI
-
-Displays Pokémon name, height, weight, and types
-
-No frameworks or external libraries required
-
-Easily scalable to include all Pokémon
-
-Clean and readable code
+<ul>
+  <li>Built with HTML, CSS, and Vanilla JavaScript</li>
+  
+  <li>Fetches data from the official PokeAPI</li>
+  
+  <li>Displays Pokémon name, height, weight, and types</li>
+  
+  <li>No frameworks or external libraries required</li>
+  
+  <li>Easily scalable to include all Pokémon</li>
+  
+  <li>Clean and readable code</li>
+</ul>
 
 <strong>How It Works</strong>
 
